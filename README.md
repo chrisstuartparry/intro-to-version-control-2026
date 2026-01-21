@@ -1,2 +1,7 @@
-# intro-to-version-control-2026
-Repository for University of York Introduction to Version Control and Git, attended in January 2026. Part of PlasmaFair material.
+# Learning Git
+
+Here's our todo:
+
+- [x] Create a new file
+- [ ] Make our first commit
+- [ ] Fix this tpyo
