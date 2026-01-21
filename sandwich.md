@@ -3,6 +3,7 @@
 ```
 bread
 bread
+ceramic dinner plate
 ```
 
 
